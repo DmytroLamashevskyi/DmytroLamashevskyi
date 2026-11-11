@@ -32,4 +32,4 @@ I care less about a particular framework and more about turning a real problem i
 
 Currently building AI-assisted products across voice, education, and developer tooling while continuing to deepen my .NET, cloud, and interactive-product work.
 
-[Portfolio](https://dmytrolamashevskyi.github.io/en) · [LinkedIn](https://www.linkedin.com/in/dima-lamashevski/) · [Email](mailto:d.lamashevskyi@gmail.com)
+[Portfolio](https://dmytrolamashevskyi.github.io/en) · [LinkedIn](https://www.linkedin.com/in/lamashevskyi/) · [Email](mailto:d.lamashevskyi@gmail.com)
